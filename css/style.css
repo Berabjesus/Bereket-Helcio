@@ -1,0 +1,24 @@
+#main{
+    text-align: center;
+}
+
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+#image{
+    
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    align-self: center;
+
+}
+#img-caption{
+    display: block;
+}
