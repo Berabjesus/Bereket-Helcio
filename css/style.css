@@ -1,5 +1,10 @@
 #main{
     text-align: center;
+    padding: 2rem 3rem;
+}
+
+#title  {
+margin-bottom: 20px;
 }
 
 #img-div{
@@ -20,5 +25,6 @@
 
 }
 #img-caption{
+    margin-top: 15px;
     display: block;
 }
