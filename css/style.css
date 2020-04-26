@@ -1,6 +1,10 @@
+body{
+    background-color: whitesmoke;
+}
 #main{
     text-align: center;
     padding: 2rem 3rem;
+    margin: 0 30px;
 }
 
 #title  {
@@ -28,3 +32,4 @@ margin-bottom: 20px;
     margin-top: 15px;
     display: block;
 }
+
